@@ -1,8 +1,8 @@
 * Identifying features
-   * Screen guides how to enter the details.
-   * Very friendly interface and even children can use it
-   * Administrator can get the list of gained votes.
-   * No crashing happens so that work can be done without any breaks.
+   * would be able to pinpoint the direction of sun
+   * easy to install
+   * one time investment
+   * incrases the power production by 30%
 * State of art/ Research
-    * we need voting system in our life.
+    * we need to focus on sustainable energy sources and also get the best possible output from it.
 
