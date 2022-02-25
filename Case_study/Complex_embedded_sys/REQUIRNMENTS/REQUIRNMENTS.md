@@ -1,3 +1,17 @@
+# Solar Tracker System
+##  content
+
+| sr. no.            | Title                                                                                                 |
+| :------------------ | :-------------------------------------------------------------------------------------------------------------- |
+| 0      |  CONTENT                                                                    |
+| 1      | INTRODUCTION  |
+| 2     |  Block diagram                                                                      |
+| 3   |                 Identifying features                                                                            |
+| 4|    State of art/ Research                                                                           |
+| 5          |  Requirnments                                                                                              |   
+| 6        | 4 W's and 1H  |
+| 7 |          SWOT ANALYSIS       |
+
 ## INTRODUCTION
  * The goal of this thesis was to study of a solar tracking system, which is able to enhance the performance of the photovoltaic modules in a solar energy system. The operating principle of the device is to keep the photovoltaic modules constantly aligned with the sunbeams, which maximizes the exposure of solar panel to the Sun’s radiation. As a result, more output power can be produced by the solar panel.
 The work of the project included hardware design and implementation, together with software programming for the microcontroller unit of the solar tracker. The system utilized an Arduino NANO microcontroller to control motion of two servo motors, which rotate solar panel in two axes. The amount of rotation was determined by the microcontroller, based on inputs retrieved from four photo sensors located next to solar panel.
