@@ -1,2 +1,3 @@
 * SWOT ANALYSIS
-    ![Lack of trust in the security and the reliability](https://user-images.githubusercontent.com/98838252/153575895-8a1ab8a7-f932-4451-b0ea-a78c108d2fbe.jpg)
+   ![cost to production ratio is low](https://user-images.githubusercontent.com/98838252/154830777-a5600482-9236-4852-923b-cb23b85297e2.jpg)
+
