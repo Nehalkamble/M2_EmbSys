@@ -24,6 +24,22 @@
     * data of soalr power generation
         * with tracking
         * without tracking
+
+* 4 W's and 1H
+    * Who
+      * people who want to increase their soalr pannel output
+
+    * What
+      * gives you about 30% more power
+
+    * When
+      * During the soalr power generation
+
+    * Where
+      * Local and industrial solar power centers
+
+    * How
+      * by implementing the tracking system to stay always in the sun direction
         
 
 * SWOT ANALYSIS
