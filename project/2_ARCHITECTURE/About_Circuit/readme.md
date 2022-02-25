@@ -1,1 +1,3 @@
-# this folder contains the files for the componemts used in this project
+# This folder contains 
+## 1) Files for the components
+## 2) Circuit daigram
