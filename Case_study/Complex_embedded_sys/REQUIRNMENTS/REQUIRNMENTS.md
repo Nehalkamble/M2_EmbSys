@@ -2,6 +2,13 @@
  * The goal of this thesis was to study of a solar tracking system, which is able to enhance the performance of the photovoltaic modules in a solar energy system. The operating principle of the device is to keep the photovoltaic modules constantly aligned with the sunbeams, which maximizes the exposure of solar panel to the Sun’s radiation. As a result, more output power can be produced by the solar panel.
 The work of the project included hardware design and implementation, together with software programming for the microcontroller unit of the solar tracker. The system utilized an Arduino NANO microcontroller to control motion of two servo motors, which rotate solar panel in two axes. The amount of rotation was determined by the microcontroller, based on inputs retrieved from four photo sensors located next to solar panel.
 At the end of the project, a functional solar tracking system was designed and implemented. It was able to keep the solar panel aligned with the sun, or any light source repetitively. Design of the solar tracker from this project is also a reference and a starting point for the development of more advanced systems in the.
+
+## Block Diagram
+
+![Solar tracking system](https://user-images.githubusercontent.com/98838252/155741646-65ed24f6-7048-4205-86e6-3907aed51553.jpg)
+
+
+
 ## REQUIRNMENTS
     * The main aim of our project is to track the maximum solar energy without radiation loss for the efficient use of solar energy, and logging data (voltage, current).
     * The problem with the existing system is stationery solar panels cannot track maximum radiations hence most of energy is wasted.
