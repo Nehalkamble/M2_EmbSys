@@ -10,7 +10,7 @@
 | 3   |                 Identifying features                                                                            |
 | 4|    State of art/ Research                                                                           |
 | 5          |  Requirnments                                                                                              |   
-| 6        | 4 W's and 1H  |
+| 6        | 5 W's and 1H  |
 | 7 |          SWOT ANALYSIS       |
 ## INTRODUCTION
   * Many times, we forgot to carry the key of our home. Or sometimes we come out of our home and door latch closes by mistake. In these cases, it is really difficult to get inside the house. This project is designed to solve this purpose. Main concept behind this project is of a door-latch opening using a password entered through keypad. As well as turning on the Buzzer when password is entered wrong. Today people are facing more problems about security in all over world, nowadays security is the most
