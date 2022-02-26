@@ -41,7 +41,7 @@ is wrong on LCD. It can be used at organizations to ensure authorized access to 
         * motor driver controller
         * power source, etc
 
-## 4 W's and 1H
+## 5 W's and 1H
     * Who
       * people who need password secured doors locks
 
@@ -53,6 +53,8 @@ is wrong on LCD. It can be used at organizations to ensure authorized access to 
 
     * Where
       * anywhere the security is needed
+    * why
+      * for the security of house
 
     * How
       * you can set the password first andthen use it to unlock the door.
