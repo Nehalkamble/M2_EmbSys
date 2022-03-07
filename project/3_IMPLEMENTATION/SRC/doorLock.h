@@ -71,7 +71,9 @@ void LCD_Clear(); /*Initialisation of Clearing LCD*/
 
 int ro1(void);
 int ro2(void);
-int ro3(void);
+int ro3(void); 
+void unlock(void);
+void lock(void);
 int pass[4];
 int count;
 #define keypad_ddr DDRC

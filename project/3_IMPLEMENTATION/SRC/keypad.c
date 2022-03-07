@@ -4,16 +4,19 @@
 #include <util/delay.h>
 #include <stdlib.h>
 
+extern void lock(void);
+
 int ro1(void);
 int ro2(void);
 int ro3(void);
 
 int ro1(){
+    PORTD =0x00;
         PORTD= 0x01;
     if(keypad_pin == 0x01)
     {
         
-       _delay_ms(1000);
+       _delay_ms(500);
        LCD_String("1");
        _delay_ms(10);
        pass[count]=1;
@@ -24,7 +27,7 @@ int ro1(){
     }
     else if(keypad_pin==0x02)
     {
-         _delay_ms(1000);
+         _delay_ms(500);
        LCD_String("4");
         _delay_ms(10);
        pass[count]=4;
@@ -33,7 +36,7 @@ int ro1(){
     }
     else if(keypad_pin==0x04)
     {
-        _delay_ms(1000);
+        _delay_ms(500);
        LCD_String("7");
         _delay_ms(10);
        pass[count]=7;
@@ -42,8 +45,10 @@ int ro1(){
     }
     else if (keypad_pin==0x08)
     {
-         _delay_ms(1000);
+         _delay_ms(500);
        LCD_String("*");
+       LCD_Clear();
+       return 1;
         
     }
     else
@@ -58,11 +63,12 @@ int ro1(){
 
 int ro2()
 {
+    PORTD =0x00;
     PORTD= 0x02;
    if(PINC == 0x01)
     {
         
-       _delay_ms(1000);
+       _delay_ms(500);
        LCD_String("2");
         _delay_ms(10);
        pass[count]=2;
@@ -72,7 +78,7 @@ int ro2()
     }
     else if(keypad_pin==0x02)
     {
-         _delay_ms(1000);
+         _delay_ms(500);
        LCD_String("5");
         _delay_ms(10);
        pass[count]=5;
@@ -81,7 +87,7 @@ int ro2()
     }
     else if(keypad_pin==0x04)
     {
-        _delay_ms(1000);
+        _delay_ms(500);
        LCD_String("8");
         _delay_ms(10);
        pass[count]=8;
@@ -90,7 +96,7 @@ int ro2()
     }
     else if (keypad_pin==0x08)
     {
-         _delay_ms(1000);
+         _delay_ms(500);
        LCD_String("0");
         _delay_ms(10);
        pass[count]=0;
@@ -109,11 +115,12 @@ int ro2()
 
 int ro3()
 {
+    PORTD =0x00;
     PORTD= 0x04;
     if(PINC == 0x01)
     {
         
-       _delay_ms(1000);
+       _delay_ms(500);
        LCD_String("3");
         _delay_ms(10);
        pass[count]=3;
@@ -123,7 +130,7 @@ int ro3()
     }
     else if(keypad_pin==0x02)
     {
-         _delay_ms(1000);
+         _delay_ms(500);
        LCD_String("6");
         _delay_ms(10);
        pass[count]=6;
@@ -132,7 +139,7 @@ int ro3()
     }
     else if(keypad_pin==0x04)
     {
-        _delay_ms(1000);
+        _delay_ms(500);
        LCD_String("9");
         _delay_ms(10);
        pass[count]=9;
@@ -141,8 +148,10 @@ int ro3()
     }
     else if (keypad_pin==0x08)
     {
-         _delay_ms(1000);
+         _delay_ms(500);
        LCD_String("#");
+       lock();
+       LCD_Clear();
        
     }
     else
