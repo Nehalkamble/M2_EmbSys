@@ -19,6 +19,15 @@
 #define RS PB0         /* Define Register Select pin */
 #define EN PB1         /* Define Enable signal pin */
 
+
+#define step_PB0 0x04
+#define step_PC2 0x16
+
+#define BLUE   step_PB0
+#define RED    step_PC2
+
+#define DELAY  300 
+
 /**
  * @brief Performs all the LCD commands
  * @param cmnd
