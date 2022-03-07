@@ -46,7 +46,7 @@ Circuit Id: Motor Driver (ULN2001-2)
 
 Unique  Id: Image-1314: 
 Circuit Id: LED as an audio output
-<item valLabely="0" x="116" objectName="Image-1314" Z_Value="-1" Color="#a0a0a4" valLabelx="0" boardRot="-1000000" Border="2" labelrot="0" circRot="0" itemtype="Image" valLabRot="0" Show_id="true" labely="-65" circPos="0,0" H_size="112" vflip="1" id="LED as an audio output" mainComp="false" boardPos="-1e+06,-1e+06" hflip="1" Image_File="../../../../../../Pictures/buzzer.png" labelx="-51" rotation="0" y="-40" V_size="135" Opacity="1"/>
+<item valLabely="0" x="116" objectName="Image-1314" Z_Value="-1" Color="#a0a0a4" valLabelx="0" boardRot="-1000000" Border="2" labelrot="0" circRot="0" itemtype="Image" valLabRot="0" Show_id="true" labely="-65" circPos="0,0" H_size="112" vflip="1" id="LED as an audio output" mainComp="false" boardPos="-1e+06,-1e+06" hflip="1" Image_File="../../../../../Pictures/buzzer.png" labelx="-51" rotation="0" y="-40" V_size="135" Opacity="1"/>
 
 Unique  Id: Ground-1315: 
 Circuit Id: Ground-950
