@@ -1,7 +1,5 @@
 
 # PASSWORD PROTECTED DOOR LOCK SYSTEM
-## drive link for Simulation video
-[](https://drive.google.com/file/d/1Lbawg3fpFiOiKRgWpRRfn-0IttjvEDIb/view?usp=sharing)
 
 ## badges acquired
 | Static Analysis |Dynamic Analysis|Build| Unity Testing | Codiga | Codacy |
@@ -22,3 +20,7 @@
 
 ## simulation
 ![simulation](https://user-images.githubusercontent.com/98838252/157190588-dfa13773-da9e-4273-910c-75be689ca072.png)
+
+## drive link for Simulation video
+[![Google_Drive_icon_(2020) svg](https://user-images.githubusercontent.com/98838252/157194171-b1494b2a-c67e-4d8f-b05a-4a51811bf6f7.png)
+](https://drive.google.com/file/d/1Lbawg3fpFiOiKRgWpRRfn-0IttjvEDIb/view?usp=sharing)
