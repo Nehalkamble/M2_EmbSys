@@ -14,8 +14,8 @@
 ||  1_Requirements | requirnments for the password protected door lock  |
 ||  2_Architecture | architecture for the password protected door lock |
 ||  3_Implementation |implementation for the password protected door lock |
-||  4_TestPlanAndOutput | test plan and output of password protected door lock) |
-||  5_Report |report of password protected door lock) |
+||  4_TestPlanAndOutput | test plan and output of password protected door lock |
+||  5_Report |report of password protected door lock |
 ||  6_References | Referances taken|
 ||  7_ImagesAndVideos | All images used in repo |
 
