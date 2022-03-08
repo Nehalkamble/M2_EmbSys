@@ -24,6 +24,10 @@ is wrong on LCD. It can be used at organizations to ensure authorized access to 
 ## Block diagram
 ![Microcontroller based Door lock](https://user-images.githubusercontent.com/98838252/155738896-63c8769b-eabb-4b7d-9cb2-e6147f2f9619.jpg)
 
+## Simulation and circit diagram
+![Screenshot (89)](https://user-images.githubusercontent.com/98838252/157188851-3d40a84a-3959-4d07-8cde-9e6b2547e234.png)
+
+
 ## Identifying features
    * Screen guides how to enter the password.
    * secure
@@ -182,6 +186,9 @@ HD44780 LCD:
 Configurable in characters rows and columns.
 
 ![display](https://user-images.githubusercontent.com/98838252/155747953-a7af087e-57d2-4255-8a05-b2334af4e246.png)
+
+## Stepper motor driver 
+![Screenshot 2022-03-08 130703](https://user-images.githubusercontent.com/98838252/157189246-3eb794ac-eda4-4fb7-8651-1acd63fef563.png)
 
 ## Test plan
 # HIGH LEVEL TEST PLAN
