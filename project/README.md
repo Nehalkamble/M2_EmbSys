@@ -14,6 +14,6 @@
 | 4_TestPlanAndOutput | Details of test plans and procedure    ( to be done)                                                                             |
 | 5_Report            | Documented report    ( to be done)                                                                                               |   
 | 6_Refrences         | References    ( to be done)   |
-
+| 7_images_and_videos | images and videos used in this project |
 
 
