@@ -16,7 +16,7 @@
 | 5_Report            | Documented report    ( to be done)                                                                                               |   
 | 6_Refrences         | References    ( to be done)   |
 | 7_images_and_videos | images and videos used in this project |
-| 8_output_files      | output files |
+| 8_output_files      | output files of the project |
 
 ## simulation ( click on play button to watch the simulation)
 
