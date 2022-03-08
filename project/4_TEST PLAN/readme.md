@@ -7,6 +7,11 @@
 | 3 | Password input from keypad | 1234 | Shall Show welcome on display and unlock the door |  Shows welcome on display and unlocks the door | PASSED✔️ |
 | 4 | Password input from keypad | 1111 | Shall Show wrong password on display and do not unlock the door | Shows wrong password on display and do not unlock the door | PASSED✔️ |
 
+## workflow and tests
+| Static Analysis |Dynamic Analysis|Build| Unity Testing | Codiga | Codacy |
+| --- | --- | --- | --- | ---|---|
+|[![CPP_Check](https://github.com/Nehalkamble/M2_EmbSys/actions/workflows/c-cpp_check.yml/badge.svg)](https://github.com/Nehalkamble/M2_EmbSys/actions/workflows/c-cpp_check.yml)|[![Dynamiccheck](https://github.com/Nehalkamble/M2_EmbSys/actions/workflows/DynamicAnalysis.yml/badge.svg)](https://github.com/Nehalkamble/M2_EmbSys/actions/workflows/DynamicAnalysis.yml)|[![BUILD_CHECK](https://github.com/Nehalkamble/M2_EmbSys/actions/workflows/build.yml/badge.svg)](https://github.com/Nehalkamble/M2_EmbSys/actions/workflows/build.yml)|[![Unity_Testing](https://github.com/Nehalkamble/M2_EmbSys/actions/workflows/unity%20testing.yml/badge.svg)](https://github.com/Nehalkamble/M2_EmbSys/actions/workflows/unity%20testing.yml)|![Codiga](https://api.codiga.io/project/31661/score/svg)   ![Codiga](https://api.codiga.io/project/31661/status/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cfa49caa6c5e42e3a726da10f087068c)](https://www.codacy.com/gh/Nehalkamble/M2_EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Nehalkamble/M2_EmbSys&amp;utm_campaign=Badge_Grade)|
+
 
 # LOW LEVEL TEST PLAN
 ###  LCD/Keypad Configuration Test
