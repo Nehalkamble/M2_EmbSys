@@ -36,7 +36,9 @@ SRC = SRC/$(MAIN_APP).c SRC/keypad.c SRC/lcd.c
 INCLUDE =-Iheader\
 
 TEST_SRC =Unity_Test/test_project.c\
-Unity_Test/onlytesting.c\
+Unity_Test/doorLock.c\
+Unity_Test/keypad.c\
+Unity_Test/lcd.c\
 Unity_Test/unity.c
 
 # commands Section
