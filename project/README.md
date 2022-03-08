@@ -17,3 +17,5 @@
 | 7_images_and_videos | images and videos used in this project |
 
 
+## simulation
+![simulation](https://user-images.githubusercontent.com/98838252/157190588-dfa13773-da9e-4273-910c-75be689ca072.png)
